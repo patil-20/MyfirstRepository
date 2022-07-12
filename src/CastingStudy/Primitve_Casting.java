@@ -15,6 +15,8 @@ public class Primitve_Casting {
 		
 		int y=(int)z;//converted to lower type info called explicite casting or narrowing casting
 		System.out.println(y);
+		
+		//I made changes in that code
 
 	}
 
